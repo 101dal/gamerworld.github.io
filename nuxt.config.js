@@ -1,4 +1,9 @@
 export default {
-    theme: '@nuxtjs/theme-everest'
+    modules: [
+      '@nuxt/content'
+    ],
+    content: {
+      // Options
+    }
   }
   
