@@ -1,9 +1,8 @@
 {
-    modules: [
-      '@nuxt/content'
-    ],
-    content: {
-      // Options
-    }
+  modules: [
+    '@nuxt/content'
+  ],
+  content: {
+    // Options
   }
-  
+}
