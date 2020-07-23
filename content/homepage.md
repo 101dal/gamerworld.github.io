@@ -8,5 +8,3 @@
 ### Server
  - in progress...
  - test
-
-<Discord />
